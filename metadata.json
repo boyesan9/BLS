@@ -1,0 +1,10 @@
+{
+  "name": "BLS Ambulance Fleet Inspection",
+  "description": "ระบบตรวจรถยนต์ส่วนกลาง รถกู้ชีพ BLS พร้อมบันทึกภาพ 4 ด้าน เช็คลิสต์ 7 หมวด และเชื่อมต่อ Google Sheets",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
